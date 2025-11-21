@@ -1,0 +1,5 @@
+{
+  "name": "ShadowCast",
+  "description": "A professional tool for design colleagues to convert images into transparent PNGs with shadow preservation using advanced edge detection and feathering logic.",
+  "requestFramePermissions": []
+}
